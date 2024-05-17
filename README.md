@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Finn <@Finn-Amperative>
-- 👀 I’m interested in Laravel, PHP and full stack developement. 
-- 🌱 I’m currently learning back-end web development as a Junior Dev.
+- 👀 I’m interested in Laravel, PHP and compelling websites. 
+- 🌱 I’m currently learning full-stack web development as a Junior Dev.
 - 📫 How to reach me: <a href=mailto:finn.smith@amperative.com>Email</a>, <a href=https://twitter.com/FinnSm1th>Twitter</a>.
 
 <!---
